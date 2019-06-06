@@ -4,6 +4,8 @@ This is a repo for all my project euler solutions written in javascript.
 
 ## A note on algorithm complexity
 
+![alt text](resources/images/big_o.png)
+
 Algorithm complexity and efficiency is measured using big O notation which is basically just syntax for comparing algorithms. Complexity ranges from most efficient O(1) to least efficient O(2N)
 
 `O(1)` describes an algorithm whose complexity is constant regardless of size of the input data set.
