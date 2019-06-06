@@ -1,5 +1,4 @@
-
-ilet n = 10
+let n = 10
 let factors = []
 
 // we know we dont want even numbers to this hops by two each iteration
